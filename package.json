@@ -1,3 +1,6 @@
+"scripts": {
+  "start": "node chatbot.js"
+}
 {
   "dependencies": {
     "moment-timezone": "^0.5.45",
